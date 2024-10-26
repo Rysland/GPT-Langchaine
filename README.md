@@ -6,5 +6,5 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone https://github.com/<ваш_аккаунт>/GPT-Langchain.git
+   git clone https://github.com/Rysland/GPT-Langchain.git
    cd GPT-Langchain
