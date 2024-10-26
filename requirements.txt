@@ -1,0 +1,11 @@
+numpy
+pandas
+requests
+tensorflow
+pybit
+scikit-learn
+matplotlib
+Flask
+gpt4all
+langchain
+duckduckgo-search
