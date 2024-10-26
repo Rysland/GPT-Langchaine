@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GPT4All с доступом в интернет</title>
+</head>
+<body>
+    <h1>Запрос к GPT4All с доступом к интернету</h1>
+    <form method="POST" action="/">
+        <label for="query">Введите запрос:</label><br>
+        <input type="text" id="query" name="query" required><br><br>
+        <input type="submit" value="Отправить">
+    </form>
+    <h2>Ответ:</h2>
+    <p>{{ response }}</p>
+</body>
+</html>
